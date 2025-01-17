@@ -49,3 +49,14 @@ million are discretized. The Arabic
 text was written in distinctive styles
 and the structure was inconsistent.
 
+## References
+
+## Project Memebers
+- Asmaa Luai Abdulla 
+- Lujain Adnan 
+- Hala Anas Kahawjy
+-  Judi Chbli 
+## Project Supervisors
+- Dr. Mahmoud Al Shboul 
+- Eng. Mahganj Durra
+
